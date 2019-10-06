@@ -1,4 +1,5 @@
 {
+	
 	"author": "jvin08",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
@@ -14,5 +15,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "A project that does something awesome"
 }
